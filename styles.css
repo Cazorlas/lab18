@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Background img */
+.bg-img1 {
+  height: 80vh;
+  background-color: #000;
+  background-size: cover;
+  background-image: linear-gradient(rgb(0, 0, 0, 0.6), rgba(29, 27, 27, 0.6)),
+    url(hero.jpg);
+}
+
+.bg-img2 {
+  height: 80vh;
+  background-color: #000;
+  background-size: cover;
+  background-image: linear-gradient(rgb(0, 0, 0, 0.6), rgba(29, 27, 27, 0.6)),
+    url(hero.jpg);
+}
+
+.bg-img3 {
+  height: 80vh;
+  background-color: #000;
+  background-size: cover;
+  background-image: linear-gradient(rgb(0, 0, 0, 0.6), rgba(29, 27, 27, 0.6)),
+    url(hero.jpg);
+}
